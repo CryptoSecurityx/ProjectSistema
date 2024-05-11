@@ -1,0 +1,17 @@
+C:\Users\CRYPTO\OneDrive - Educacional\ProjectSistema\ProjectSistema\bin\Debug\net6.0-windows\ProjectSistema.exe
+C:\Users\CRYPTO\OneDrive - Educacional\ProjectSistema\ProjectSistema\bin\Debug\net6.0-windows\ProjectSistema.deps.json
+C:\Users\CRYPTO\OneDrive - Educacional\ProjectSistema\ProjectSistema\bin\Debug\net6.0-windows\ProjectSistema.runtimeconfig.json
+C:\Users\CRYPTO\OneDrive - Educacional\ProjectSistema\ProjectSistema\bin\Debug\net6.0-windows\ProjectSistema.dll
+C:\Users\CRYPTO\OneDrive - Educacional\ProjectSistema\ProjectSistema\bin\Debug\net6.0-windows\ProjectSistema.pdb
+C:\Users\CRYPTO\OneDrive - Educacional\ProjectSistema\ProjectSistema\obj\Debug\net6.0-windows\ProjectSistema.csproj.AssemblyReference.cache
+C:\Users\CRYPTO\OneDrive - Educacional\ProjectSistema\ProjectSistema\obj\Debug\net6.0-windows\ProjectSistema.FrmSistema.resources
+C:\Users\CRYPTO\OneDrive - Educacional\ProjectSistema\ProjectSistema\obj\Debug\net6.0-windows\ProjectSistema.csproj.GenerateResource.cache
+C:\Users\CRYPTO\OneDrive - Educacional\ProjectSistema\ProjectSistema\obj\Debug\net6.0-windows\ProjectSistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRYPTO\OneDrive - Educacional\ProjectSistema\ProjectSistema\obj\Debug\net6.0-windows\ProjectSistema.AssemblyInfoInputs.cache
+C:\Users\CRYPTO\OneDrive - Educacional\ProjectSistema\ProjectSistema\obj\Debug\net6.0-windows\ProjectSistema.AssemblyInfo.cs
+C:\Users\CRYPTO\OneDrive - Educacional\ProjectSistema\ProjectSistema\obj\Debug\net6.0-windows\ProjectSistema.csproj.CoreCompileInputs.cache
+C:\Users\CRYPTO\OneDrive - Educacional\ProjectSistema\ProjectSistema\obj\Debug\net6.0-windows\ProjectSistema.dll
+C:\Users\CRYPTO\OneDrive - Educacional\ProjectSistema\ProjectSistema\obj\Debug\net6.0-windows\refint\ProjectSistema.dll
+C:\Users\CRYPTO\OneDrive - Educacional\ProjectSistema\ProjectSistema\obj\Debug\net6.0-windows\ProjectSistema.pdb
+C:\Users\CRYPTO\OneDrive - Educacional\ProjectSistema\ProjectSistema\obj\Debug\net6.0-windows\ProjectSistema.genruntimeconfig.cache
+C:\Users\CRYPTO\OneDrive - Educacional\ProjectSistema\ProjectSistema\obj\Debug\net6.0-windows\ref\ProjectSistema.dll
